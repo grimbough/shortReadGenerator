@@ -8,8 +8,8 @@
 #include "shortReadGenerator.h"
 #include "genome.h"
 
-#include "sampling.cpp"
-#include "utilityFunctions.cpp"
+//#include "sampling.cpp"
+//#include "utilityFunctions.cpp"
 //#include "classes_MP.cpp"
 
 Genome readGenome(string inFile) {
